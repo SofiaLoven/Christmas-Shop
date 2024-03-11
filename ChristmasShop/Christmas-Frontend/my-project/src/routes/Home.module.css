@@ -1,0 +1,13 @@
+
+.homePage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.homePage h2{
+    font-size: 1.5rem;
+    margin-bottom: 12px;
+    text-decoration: underline;
+}

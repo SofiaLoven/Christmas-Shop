@@ -1,0 +1,25 @@
+.card{
+    width: 200px;
+    height: 240px;
+    box-shadow: var(--primary-color) 0px 2px 4px 0px;
+    border-radius: 10px;
+    margin: 8px 0;
+}
+
+.card div{
+    margin: 12px 0 0 8px;
+}
+
+.card img{
+    width: 200px;
+    border-radius: 10px 10px 0 0;
+}
+
+.card :is(strong, p){
+    font-size: 1.1rem;
+    margin: 8px 0
+}
+
+.link{
+    text-decoration: none;
+}

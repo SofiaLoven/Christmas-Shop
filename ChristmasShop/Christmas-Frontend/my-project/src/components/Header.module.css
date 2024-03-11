@@ -1,0 +1,31 @@
+
+.header{
+    width: 100vw;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 20px 0;
+    border-bottom: solid 1px var(--secondary-color); 
+    box-shadow: var(--secondary-color) 0px 2px 4px 0px;
+}
+
+.header h1{
+    font-size: 2rem;
+}
+
+.header p{
+    font-size: 1.1rem;
+}
+
+.link{
+    text-decoration: none;
+}
+
+@media (max-width: 400px) {
+    .header p{
+        font-size: 0.9rem;
+        margin-top: 20px;
+    }    
+}

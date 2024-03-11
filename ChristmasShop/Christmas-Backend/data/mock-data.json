@@ -1,0 +1,163 @@
+{
+    "products":[
+        {
+        "id": 1234,
+        "produkt": "Röda julstrumpor",
+        "pris": 109,
+        "beskrivning": "Röda julstrumpor med tomtar och glitter",
+        "lagerSaldo": 1500
+        },
+        
+        {
+        "id": 2345,
+        "produkt": "Pepparkakshus kit",
+        "pris": 199,
+        "beskrivning": "Kit för att bygga ditt eget pepparkakshus",
+        "lagerSaldo": 800
+        },
+        
+        {
+        "id": 3457,
+        "produkt": "Nyårsfyrverkerier",
+        "pris": 499,
+        "beskrivning": "Färgglada fyrverkerier för nyårsfirandet",
+        "lagerSaldo": 2000
+        },
+        
+        {
+        "id": 4567,
+        "produkt": "Julgran med belysning",
+        "pris": 799,
+        "beskrivning": "Konstgjord julgran med inbyggd LED-belysning",
+        "lagerSaldo": 1000
+        },
+        
+        {
+        "id": 5678,
+        "produkt": "Julbelysningsslinga",
+        "pris": 129,
+        "beskrivning": "Färgglad julbelysningsslinga för hemmet",
+        "lagerSaldo": 2500
+        },
+        
+        {
+        "id": 6789,
+        "produkt": "Nyårsballonger",
+        "pris": 69,
+        "beskrivning": "Festliga nyårsballonger med siffror och konfetti",
+        "lagerSaldo": 1200
+        },
+        
+        {
+        "id": 7890,
+        "produkt": "Tomtehatt",
+        "pris": 49,
+        "beskrivning": "Röd tomtehatt med vit boll på toppen",
+        "lagerSaldo": 1800
+        },
+        
+        {
+        "id": 8901,
+        "produkt": "Nyårsdekorationer",
+        "pris": 89,
+        "beskrivning": "Dekorationer med nyårs- och stjärn-motiv",
+        "lagerSaldo": 2800
+        },
+        
+        {
+        "id": 123,
+        "produkt": "Julbakset",
+        "pris": 149,
+        "beskrivning": "Set med formar och dekorationer för julbak",
+        "lagerSaldo": 1500
+        },
+        
+        {
+        "id": 234,
+        "produkt": "Nyårsfesthattar",
+        "pris": 39,
+        "beskrivning": "Festliga hattar med glitter och fjädrar",
+        "lagerSaldo": 900
+        },
+        
+        {
+        "id": 345,
+        "produkt": "Julpyntskit",
+        "pris": 189,
+        "beskrivning": "Kit med olika julpynt för granen",
+        "lagerSaldo": 2000
+        },
+        
+        {
+        "id": 456,
+        "produkt": "Nyårskonfetti",
+        "pris": 29,
+        "beskrivning": "Färgglatt konfetti för nyårsfesten",
+        "lagerSaldo": 800
+        },
+        
+        {
+        "id": 567,
+        "produkt": "Tomtemuggar",
+        "pris": 59,
+        "beskrivning": "Muggar med tomtemotiv för varma drycker",
+        "lagerSaldo": 1200
+        },
+        
+        {
+        "id": 678,
+        "produkt": "Nyårsdukningssatser",
+        "pris": 249,
+        "beskrivning": "Sätt med tallrikar, bestick och servetter för nyår",
+        "lagerSaldo": 1500
+        },
+        
+        {
+        "id": 789,
+        "produkt": "Julstjärna",
+        "pris": 79,
+        "beskrivning": "Traditionell julstjärna för fönstret",
+        "lagerSaldo": 1800
+        },
+        
+        {
+        "id": 890,
+        "produkt": "Nyårschampagne",
+        "pris": 299,
+        "beskrivning": "Höj stämningen med mousserande champagne",
+        "lagerSaldo": 1000
+        },
+        
+        {
+        "id": 901,
+        "produkt": "Julstrumpa med namn",
+        "pris": 99,
+        "beskrivning": "Personliggjord julstrumpa med namnbrodyr",
+        "lagerSaldo": 1200
+        },
+        
+        {
+        "id": 1235,
+        "produkt": "Nyårsraketer",
+        "pris": 399,
+        "beskrivning": "Imponerande nyårsraketer för firandet",
+        "lagerSaldo": 1500
+        },
+        
+        {
+        "id": 2346,
+        "produkt": "Julgransljus",
+        "pris": 89,
+        "beskrivning": "Värmebeständiga ljus för din julgran",
+        "lagerSaldo": 2000
+        },
+        
+        {
+        "id": 3456,
+        "produkt": "LP med nyårslåtare genom tiderna",
+        "pris": 699,
+        "beskrivning": "En perfekt skiva för nyårsfesten.",
+        "lagerSaldo": 900
+        }
+    ]
+}

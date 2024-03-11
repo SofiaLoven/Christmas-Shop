@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Kay+Pho+Du&family=Raleway&family=Yeseva+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: var(--alternative-background);
+    font-family: 'Kay Pho Du', serif;
+    color: var(--primary-color);
+}
+
+body{
+    height: 100vh;
+}
+
+:root {
+    --background-color: #eaf4f4;
+    --alternative-background: #cad2c5;
+    --primary-color: #2f3e46;
+    --secondary-color: #52796f;
+    --card-color: #f8f9fa;
+    --primary-red-color: #780000;
+    --warning-color: #c1121f;
+  }
+
+
+
